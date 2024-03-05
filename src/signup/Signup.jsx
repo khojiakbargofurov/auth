@@ -23,8 +23,8 @@ function Signup(){
   }
 
   return (
-    <form className="max-w-md mx-auto text-left" onSubmit={handleSubmit}>
-      <h2 className="">
+    <form className="max-w-md mx-auto text-left w-72" onSubmit={handleSubmit}>
+      <h2 className="text-3xl font-bold mb-4">
         Sign Up
       </h2>
       <br />
